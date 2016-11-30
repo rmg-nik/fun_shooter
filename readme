@@ -1,0 +1,2 @@
+For using cocos we need install it separately.
+Then we need to create link to folder "mklink /J cocos2d your/path/to/cocos2dx/root"
